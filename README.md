@@ -18,9 +18,9 @@ To use this project, clone the repository and run the Jupyter notebook. Make sur
 
 ## Example results
 
-![pipeline](Images/output1.png)
-![pipeline](Images/output2.png)
-![pipeline](Images/output3.png)
+<img src="Images/output1.png" alt="pipeline" width="400"/>
+<img src="Images/output2.png" alt="pipeline" width="400"/>
+<img src="Images/output3.png" alt="pipeline" width="400"/>
 
 ## Reference
 $[1]$ Stephen Boyd and Lieven Vandenberghe. Convex optimization. Cambridge university press.
