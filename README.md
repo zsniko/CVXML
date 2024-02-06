@@ -4,11 +4,7 @@ This project demonstrates how to solve a classification problem using convex opt
 
 ## Overview
 
-The project uses a Jupyter notebook to guide you through the process of creating classifiers using only NumPy, CVXPY, and Matplotlib. Each section of the notebook corresponds to a different part of the classifier construction process.
-
-## Reference
-
-The methods used in this project are based on "Section 8.6 Classification" of the reference book [1].
+The project uses a Jupyter notebook to guide you through the process of creating classifiers using only NumPy, CVXPY, and Matplotlib. Each section of the notebook corresponds to a different part of the classifier construction process. The methods used in this project are based on "Section 8.6 Classification" of the reference book [1].
 
 ## Dependencies
 
