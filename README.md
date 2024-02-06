@@ -16,5 +16,11 @@ The project uses a Jupyter notebook to guide you through the process of creating
 
 To use this project, clone the repository and run the Jupyter notebook. Make sure you have all the dependencies installed.
 
+## Example results
+
+![pipeline](Images/output1.png)
+![pipeline](Images/output2.png)
+![pipeline](Images/output3.png)
+
 ## Reference
 $[1]$ Stephen Boyd and Lieven Vandenberghe. Convex optimization. Cambridge university press.
